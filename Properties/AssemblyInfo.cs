@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("HelloWorld")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("C-Sharp-Fundamentals")]
+[assembly: AssemblyDescription("An exploration of C#")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Kiran-Kulkarni")]
 [assembly: AssemblyProduct("HelloWorld")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCopyright("Copyright ©  2021 -> Kiran Kulkarni")]
+[assembly: AssemblyTrademark("KBK")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
